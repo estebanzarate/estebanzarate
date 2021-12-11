@@ -3,6 +3,19 @@
 I'm Esteban! 🤜🤛
 
 ```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [HTML, CSS, Javascript],
+   technologies: {
+      frontEnd: {
+         css: ["Bootstrap"]
+      }
+   },
+   currentOccupation: ["last year student, open for job opportunities"]
+};
+```
+
+```javascript
 Stay in 'touch';
 ```
 :point_down:
