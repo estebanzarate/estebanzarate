@@ -8,7 +8,7 @@ const aboutMe = {
    code: [HTML, CSS, Javascript],
    technologies: {
       frontEnd: {
-         css: ["Bootstrap"]
+         css: ["Bootstrap", "Sass"]
       }
    },
    currentOccupation: ["studying JavaScript, open for job opportunities"]
