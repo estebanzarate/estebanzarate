@@ -11,7 +11,7 @@ const aboutMe = {
          css: ["Bootstrap"]
       }
    },
-   currentOccupation: ["last year student, open for job opportunities"]
+   currentOccupation: ["studying JavaScript, open for job opportunities"]
 };
 ```
 
