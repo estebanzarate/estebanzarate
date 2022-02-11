@@ -5,13 +5,13 @@ I'm Esteban! 🤜🤛
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript],
+   code: [HTML, CSS, Javascript, React JS],
    technologies: {
       frontEnd: {
          css: ["Bootstrap", "Sass"]
       }
    },
-   currentOccupation: ["studying JavaScript, open for job opportunities"]
+   currentOccupation: ["studying React JS, open for job opportunities"]
 };
 ```
 
