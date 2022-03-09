@@ -9,9 +9,12 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          css: ["Bootstrap", "Sass"]
+      },
+      backend: {
+         MERN: ["MongoDB", "Express(.js)", "React(.js)", "Node(.js)"]
       }
    },
-   currentOccupation: ["studying React JS, open for job opportunities"]
+   currentOccupation: ["studying backend, open for job opportunities"]
 };
 ```
 
