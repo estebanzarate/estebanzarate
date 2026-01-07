@@ -1,3 +1,3 @@
 # Esteban Zárate
 
-## Developer 💻 Cybersecurity Analyst
+## Desarrollador Full Stack
