@@ -9,6 +9,6 @@
 - JavaScript
 - React.js
 - Node.js
-- Express.js
 - SQL
+- NoSQL
 - Docker
