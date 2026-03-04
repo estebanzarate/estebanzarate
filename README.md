@@ -80,9 +80,6 @@ Actualmente en búsqueda de mi **primer rol profesional en ciberseguridad**.
 
 [![THM Badge](https://tryhackme-badges.s3.amazonaws.com/no0funny.png)](https://tryhackme.com/p/no0funny)
 
-<!-- Si la imagen de arriba no carga, probá con esta URL alternativa:
-https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1919253 -->
-
 </div>
 
 ---
