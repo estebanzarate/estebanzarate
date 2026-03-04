@@ -57,6 +57,19 @@ Actualmente en búsqueda de mi **primer rol profesional en ciberseguridad**.
 
 ---
 
+## Repos destacados
+
+<div align="center">
+
+<a href="https://github.com/estebanzarate/archlinux-installation">
+  <img src="https://opengraph.githubassets.com/1/estebanzarate/archlinux-installation" width="380"/>
+</a>
+<a href="https://github.com/estebanzarate/portfolio">
+  <img src="https://opengraph.githubassets.com/1/estebanzarate/portfolio" width="380"/>
+</a>
+
+</div>
+
 ---
 
 ## Plataformas
@@ -66,6 +79,9 @@ Actualmente en búsqueda de mi **primer rol profesional en ciberseguridad**.
 [![HTB Badge](https://www.hackthebox.eu/badge/image/1089152)](https://app.hackthebox.com/profile/1089152)
 
 [![THM Badge](https://tryhackme-badges.s3.amazonaws.com/no0funny.png)](https://tryhackme.com/p/no0funny)
+
+<!-- Si la imagen de arriba no carga, probá con esta URL alternativa:
+https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1919253 -->
 
 </div>
 
