@@ -61,12 +61,23 @@ Actualmente en búsqueda de mi **primer rol profesional en ciberseguridad**.
 
 <div align="center">
 
-<a href="https://github.com/estebanzarate/archlinux-installation">
-  <img src="https://opengraph.githubassets.com/1/estebanzarate/archlinux-installation" width="380"/>
-</a>
-<a href="https://github.com/estebanzarate/portfolio">
-  <img src="https://opengraph.githubassets.com/1/estebanzarate/portfolio" width="380"/>
-</a>
+  <div>
+    <a href="https://github.com/estebanzarate/urlfckr">
+      <img src="https://opengraph.githubassets.com/1/estebanzarate/urlfckr" width="280"/>
+    </a>
+    <a href="https://github.com/estebanzarate/htbash">
+      <img src="https://opengraph.githubassets.com/1/estebanzarate/htbash" width="280"/>
+    </a>
+  </div>
+
+  <div>
+    <a href="https://github.com/estebanzarate/archlinux-installation">
+      <img src="https://opengraph.githubassets.com/1/estebanzarate/archlinux-installation" width="280"/>
+    </a>
+    <a href="https://github.com/estebanzarate/portfolio">
+      <img src="https://opengraph.githubassets.com/1/estebanzarate/portfolio" width="280"/>
+    </a>
+  </div>
 
 </div>
 
@@ -76,9 +87,10 @@ Actualmente en búsqueda de mi **primer rol profesional en ciberseguridad**.
 
 <div align="center">
 
+[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/no0funny.png)](https://tryhackme.com/p/no0funny)
+
 [![HTB Badge](https://www.hackthebox.eu/badge/image/1089152)](https://app.hackthebox.com/profile/1089152)
 
-[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/no0funny.png)](https://tryhackme.com/p/no0funny)
 
 </div>
 
