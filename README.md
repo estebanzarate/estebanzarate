@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://estebanzarate.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-zarate)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=141D2B)](https://app.hackthebox.com/profile/1089152)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/nofunny)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/no0funny)
 [![Hackache](https://img.shields.io/badge/Hackache_Notes-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://estebanzarate.gitbook.io/hackache)
 
 </div>
@@ -65,7 +65,7 @@ Actualmente en búsqueda de mi **primer rol profesional en ciberseguridad**.
 
 [![HTB Badge](https://www.hackthebox.eu/badge/image/1089152)](https://app.hackthebox.com/profile/1089152)
 
-[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/nofunny.png)](https://tryhackme.com/p/nofunny)
+[![THM Badge](https://tryhackme-badges.s3.amazonaws.com/no0funny.png)](https://tryhackme.com/p/no0funny)
 
 </div>
 
